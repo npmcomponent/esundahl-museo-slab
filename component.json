@@ -1,0 +1,13 @@
+{
+  "name": "museo-slab",
+  "repo": "esundahl/museo-slab",
+  "description": "museo slab font",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-slab.css"
+  ]
+}
