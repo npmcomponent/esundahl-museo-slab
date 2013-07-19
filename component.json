@@ -4,10 +4,10 @@
   "description": "museo slab font",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "esundahl/museo-slab-500": "*",
+    "esundahl/museo-slab-500-italic": "*"
+  },
   "development": {},
-  "license": "MIT",
-  "styles": [
-    "museo-slab.css"
-  ]
+  "license": "MIT"
 }
