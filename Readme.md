@@ -1,7 +1,6 @@
+# Museo Slab
 
-# museo-slab
-
-  museo slab font
+  Includes 500 regular and 500 italic fonts.
 
 ## Installation
 
@@ -11,6 +10,11 @@
 
 ## API
 
+```css
+body {
+  font-family: 'Museo Slab';
+}
+```
 
 
 ## License
