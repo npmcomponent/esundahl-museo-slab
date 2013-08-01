@@ -1,6 +1,8 @@
 # Museo Slab
 
   Includes 500 regular and 500 italic fonts.
+  
+  http://www.fontsquirrel.com/fonts/Museo-Slab
 
 ## Installation
 
