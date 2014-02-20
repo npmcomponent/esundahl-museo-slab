@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-museo-slab",
+  "description": "museo slab font",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-museo-slab-500": "git://github.com/npmcomponent/esundahl-museo-slab-500.git",
+    "esundahl-museo-slab-500-italic": "git://github.com/npmcomponent/esundahl-museo-slab-500-italic.git"
+  },
+  "license": "MIT"
+}
